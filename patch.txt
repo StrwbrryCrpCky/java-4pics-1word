@@ -1,0 +1,25 @@
+PATCH 1.0
+
+Updates:
+	-20 levels now
+	-new tracker to track your level
+	-logo that's pog (thanks skye and scottie)
+	-the background is now blue!!!
+	-it's not an alpha anymore
+
+Expect:
+	-an update where you run this in VSCode terminal
+
+*(crepe)
+
+------------------------------------------------------------------------------------
+
+PATCH ALPHA-0-2:
+
+Updates:
+	-now 10 levels
+	-new bomb hint mechanic (destroys 3 non-answer letters from the board)
+	-new UI
+	-basically poggers
+
+*(crepe)
