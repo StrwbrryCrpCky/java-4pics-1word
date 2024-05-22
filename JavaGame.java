@@ -14,6 +14,9 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 
+//school project of Gunda, Kabigting, Parcon, Sarmiento, and Vargas
+//DONT YOU REMOVE THIS TEXT (it's our signature)
+
 public class JavaGame extends JFrame implements ActionListener{
 
     public int leveltxt = 0;
