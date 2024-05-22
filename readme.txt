@@ -7,8 +7,8 @@ To run this in terminal:
 Open Terminal (or PowerShell) then:
 
 type "cd C:\[location of the folder]"
-type "javac MainMenu_ScottsVitaminCS.java"
-type "java MainMenu_ScottsVitaminCS"
+type "javac JavaGame.java"
+type "java JavaGame"
 
 anyways that it, peace
 
